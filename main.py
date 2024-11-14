@@ -26,5 +26,5 @@ class BankInterest(object):
 
 
 if __name__ == '__main__':
-    bank = BankInterest(100000, 2, 10)
+    bank = BankInterest(100000, 3, 10)
     print(bank.ann_int())
